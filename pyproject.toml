@@ -5,7 +5,7 @@ description = "a pokemon game like made in python"
 authors = [
     {name = "olatejulian", email = "julian.lf.olate@gmail.com"},
 ]
-dependencies = []
+dependencies = ["pydantic>=2.12.5"]
 requires-python = ">=3.14"
 readme = "README.md"
 license = {text = "MIT"}
